@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### OS - Ubuntu 22.04
+### IDE's = VS Code, Visual Studio
 <!--
 **ToddIsACoder/ToddIsACoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
